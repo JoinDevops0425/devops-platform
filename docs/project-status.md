@@ -1,1 +1,3 @@
-Project Status Application Platform is underdevlopment
+Project Status
+
+Application monitoring has been implemented.
